@@ -1,0 +1,3 @@
+[submodule "libs/talyte"]
+	path = src/libs/talyte
+	url = https://github.com/featherbear/talyte.git
